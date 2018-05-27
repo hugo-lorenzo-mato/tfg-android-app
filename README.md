@@ -1,5 +1,6 @@
-WebView App
-===========
 
-This is a WebView App created by [Robo Templates](http://robotemplates.com/).
-See documentation in _/doc_ directory for more info.
+WebApp: Hugo Lorenzo Mato
+=========================
+
+
+> WebApp para la aplicación web de mi TFG. Le he añadido un menú lateral con cierta información como mi contacto, LinkedIn, GitHub, etc.
