@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">Catalogador</string>
+	<string name="app_store_uri" translatable="false">https://play.google.com/store/apps/details?id=%1$s</string>
+
+	<string name="navigation_header_title">Catalogador</string>
+
+	<string name="global_network_offline">No existe conexión a Internet</string>
+
+	<string name="menu_fragment_main_share">Compartir</string>
+
+	<string name="drawer_open">Abrir menú de navegación</string>
+	<string name="drawer_close">Cerrar menú de navegación</string>
+
+	<string name="placeholder_empty">No encontrado</string>
+	<string name="placeholder_offline">No existe conexión a Internet</string>
+
+	<string name="permission_read_external_storage">Permiso para leer ficheros requerido</string>
+	<string name="permission_write_external_storage">Permiso para escribir ficheros requerido</string>
+	<string name="permission_access_location">Permiso para acceder a su localización requerido</string>
+
+	<string name="activity_main_exit_snackbar">¿Realmente desea salir?</string>
+	<string name="activity_main_exit_confirm">Sí</string>
+	<string name="activity_main_rate_snackbar">Te gusta mi aplicicación? Puntúala en la PlayStore. Gracias.</string>
+	<string name="activity_main_rate_confirm">Valorar</string>
+
+	<string name="fragment_main_downloading">Descargando…</string>
+</resources>
