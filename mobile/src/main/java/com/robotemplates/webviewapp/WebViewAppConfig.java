@@ -48,13 +48,15 @@ public class WebViewAppConfig
 
 	// unit ids for AdMob,
 	// leave these constants empty if you do not want to use AdMob
-	public static final String ADMOB_UNIT_ID_BANNER = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX";
-	public static final String ADMOB_UNIT_ID_INTERSTITIAL = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX";
+	//public static final String ADMOB_UNIT_ID_BANNER = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX";
+	public static final String ADMOB_UNIT_ID_BANNER = "";
+	//public static final String ADMOB_UNIT_ID_INTERSTITIAL = "ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX";
+	public static final String ADMOB_UNIT_ID_INTERSTITIAL = "";
 
 	// test device id for AdMob,
 	// setup this constant if you want to avoid invalid impressions,
 	// you can find your hashed device id in the logcat output by requesting an ad when debugging on your device
-	public static final String ADMOB_TEST_DEVICE_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+	public static final String ADMOB_TEST_DEVICE_ID = "";
 
 	// frequency of showing AdMob interstitial ad,
 	// ad will be shown after each x url loadings or clicks on navigation drawer menu
