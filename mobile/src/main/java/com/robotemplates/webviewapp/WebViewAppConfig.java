@@ -56,6 +56,7 @@ public class WebViewAppConfig
 	// test device id for AdMob,
 	// setup this constant if you want to avoid invalid impressions,
 	// you can find your hashed device id in the logcat output by requesting an ad when debugging on your device
+	//public static final String ADMOB_TEST_DEVICE_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 	public static final String ADMOB_TEST_DEVICE_ID = "";
 
 	// frequency of showing AdMob interstitial ad,
